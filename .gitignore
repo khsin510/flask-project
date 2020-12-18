@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+mykey.json
+
+fireinit.py
+humidity.py
